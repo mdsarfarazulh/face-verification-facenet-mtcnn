@@ -1,0 +1,1 @@
+For further information regarding mtcnn source code and license visit https://github.com/ipazc/mtcnn
