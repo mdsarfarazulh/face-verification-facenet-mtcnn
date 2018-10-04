@@ -1,0 +1,1 @@
+Download the keras model from link in the readme file and put the it in this folder.
